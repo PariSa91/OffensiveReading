@@ -287,6 +287,14 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack Trees | Katsuaki Nakano, Reza Feyyazi, Shanchieh Jay Yang, Michael Zuzak | [Link](https://arxiv.org/pdf/2509.07939) | --- |
+| 2025 | Between a Rock and a Hard Place: Exploiting Ethical Reasoning to Jailbreak LLMs | Shei Pern Chua, Thai Zhen Leng, Teh Kai Jun, Xiao Li, Xiaolin Hu | [Link](https://arxiv.org/pdf/2509.05367) | --- |
+| 2025 | Web Fraud Attacks Against LLM-Driven Multi-Agent Systems | Dezhang Kong, Hujin Peng, Yilun Zhang, Lele Zhao, Zhenhua Xu, Shi Lin, Changting Lin, Meng Han | [Link](https://arxiv.org/pdf/2509.01211) | --- |
+| 2025 | From Attack Descriptions to Vulnerabilities: A Sentence Transformer-Based Approach | Refat Othman, Diaeddin Rimawi, Bruno Rossi, Barbara Russo | [Link](https://arxiv.org/pdf/2509.02077) | --- |
+| 2025 | Poisoned at Scale: A Scalable Audit Uncovers Hidden Scam Endpoints in Production LLMs | Zhiyang Chen, Tara Saba, Xun Deng, Xujie Si, Fan Long | [Link](https://arxiv.org/pdf/2509.02372) | --- |
+| 2025 | CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities | Yuxuan Zhu, Antony Kellermann, Dylan Bowman, Philip Li, Akul Gupta, Adarsh Danda, Richard Fang, Conner Jensen, Eric Ihli, Jason Benn, Jet Geronimo, Avi Dhir, Sudhit Rao, Kaicheng Yu, Twm Stone, Daniel Kang | [Link](https://arxiv.org/pdf/2503.17332) | [Github](https://github.com/uiuc-kang-lab/cve-bench) |
+| 2025 | From CVE Entries to Verifiable Exploits: An Automated Multi-Agent Framework for Reproducing CVEs | Saad Ullah, Praneeth Balasubramanian, Wenbo Guo, Amanda Burnett, Hammond Pearce, Christopher Kruegel, Giovanni Vigna, Gianluca Stringhini | [Link](https://arxiv.org/pdf/2509.01835) | --- |
+| 2025 | Cybersecurity AI: Hacking the AI Hackers via Prompt Injection | Víctor Mayoral-Vilches, Per Mannermaa Rynning | [Link](https://arxiv.org/pdf/2508.21669) | --- |
 | 2025 | MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers | Zhiqiang Wang, Yichao Gao, Yanting Wang, Suyuan Liu, Haifeng Sun, Haoran Cheng, Guanquan Shi, Haohua Du, Xiangyang Li | [Link](https://arxiv.org/pdf/2508.14925) | --- |
 | 2025 | Systematic Analysis of MCP Security | Yongjian Guo, Puzhuo Liu, Wanlun Ma, Zehang Deng, Xiaogang Zhu, Peng Di, Xi Xiao, Sheng Wen | [Link](https://arxiv.org/pdf/2508.12538) | --- |
 | 2025 | Searching for Privacy Risks in LLM Agents via Simulation | Yanzhe Zhang, Diyi Yang | [Link](https://arxiv.org/pdf/2508.10880) | --- |
@@ -407,6 +415,11 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching | Ze Sheng, Qingxiao Xu, Jianwei Huang, Matthew Woodcock, Heqing Huang, Alastair F. Donaldson, Guofei Gu, Jeff Huang | [Link](https://arxiv.org/pdf/2509.07225) | --- |
+| 2025 | FuzzBox: Blending Fuzzing into Emulation for Binary-Only Embedded Targets | Carmine Cesarano, Roberto Natella | [Link](https://arxiv.org/pdf/2509.05643) | --- |
+| 2025 | A Whole New World: Creating a Parallel-Poisoned Web Only AI-Agents Can See | Shaked Zychlinski | [Link](https://arxiv.org/pdf/2509.00124) | --- |
+| 2025 | LLM-HyPZ: Hardware Vulnerability Discovery using an LLM-Assisted Hybrid Platform for Zero-Shot Knowledge Extraction and Refinement | Yu-Zheng Lin, Sujan Ghimire, Abhiram Nandimandalam, Jonah Michael Camacho, Unnati Tripathi, Rony Macwan, Sicong Shao, Setareh Rafatirad, Rozhin Yasaei, Pratik Satam, Soheil Salehi | [Link](https://arxiv.org/pdf/2509.00647) | --- |
+| 2025 | VulSolver: Vulnerability Detection via LLM-Driven Constraint Solving | Xiang Li, Yueci Su, Jiahao Liu, Zhiwei Lin, Yuebing Hou, Peiming Gao, Yuanchao Zhang | [Link](https://arxiv.org/pdf/2509.00882) | --- |
 | 2025 | Code Vulnerability Detection Across Different Programming Languages with AI Models | Hael Abdulhakim Ali Humran, Ferdi Sonmez | [Link](https://arxiv.org/pdf/2508.11710) | --- |
 | 2025 | Unveiling Dynamic Binary Instrumentation Techniques | Oscar Llorente-Vazquez, Xabier Ugarte-Pedrero, Igor Santos-Grueiro, Pablo Garcia Bringas | [Link](https://arxiv.org/pdf/2508.00682) | --- |
 | 2025 | LLM-Assisted Model-Based Fuzzing of Protocol Implementations | Changze Huang, Di Wang, Zhi Quan Zhou | [Link](https://arxiv.org/pdf/2508.01750) | --- |
@@ -487,6 +500,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Agentic Discovery and Validation of Android App Vulnerabilities | Ziyue Wang, Liyi Zhou | [Link](https://arxiv.org/pdf/2508.21579) | --- |
 | 2025 | KeyDroid: A Large-Scale Analysis of Secure Key Storage in Android Apps | Jenny Blessing, Ross J. Anderson, Alastair R. Beresford | [Link](https://arxiv.org/pdf/2507.07927) | --- |
 | 2025 | Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties | Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Luan, Yunxin Liu | [Link](https://arxiv.org/pdf/2507.04227) | --- |
 | 2025 | Stealtooth: Breaking Bluetooth Security Abusing Silent Automatic Pairing | Keiichiro Kimura, Hiroki Kuzuno, Yoshiaki Shiraishi, Masakatu Morii | [Link](https://arxiv.org/pdf/2507.00847) | --- |
@@ -584,6 +598,10 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | E-PhishGen: Unlocking Novel Research in Phishing Email Detection | Luca Pajola, Eugenio Caripoti, Simeone Pizzi, Mauro Conti, Stefan Banzer, Giovanni Apruzzese | [Link](https://arxiv.org/pdf/2509.01791) | --- |
+| 2025 | A Systematic Approach to Estimate the Security Posture of a Cyber Infrastructure: A Technical Report | Qishen Sam Liang | [Link](https://arxiv.org/pdf/2509.00266) | --- |
+| 2025 | LLMHoney: A Real-Time SSH Honeypot with Large Language Model-Driven Dynamic Response Generation | Pranjay Malhotra | [Link](https://arxiv.org/pdf/2509.01463) | --- |
+| 2025 | E-PhishGen: Unlocking Novel Research in Phishing Email Detection | Luca Pajola, Eugenio Caripoti, Simeone Pizzi, Mauro Conti, Stefan Banzer, Giovanni Apruzzese | [Link](https://arxiv.org/pdf/2509.01791) | --- |
 | 2025 | LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres | Ronal Singh, Shahroz Tariq, Fatemeh Jalalvand, Mohan Baruwal Chhetri, Surya Nepal, Cecile Paris, Martin Lochner | [Link](https://arxiv.org/pdf/2508.18947) | --- |
 | 2025 | A Novel Study on Intelligent Methods and Explainable AI for Dynamic Malware Analysis | Richa Dasila, Vatsala Upadhyay, Samo Bobek, Abhishek Vaish | [Link](https://arxiv.org/pdf/2508.10652) | --- |
 | 2025 | Enhance the machine learning algorithm performance in phishing detection with keyword features | Zijiang Yang | [Link](https://arxiv.org/pdf/2508.09765) | --- |
